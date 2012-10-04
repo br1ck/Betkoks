@@ -7,7 +7,8 @@ int main(int argc, char *argv[])
 {
     cout << "Press the enter ..." << endl;
     var i : integer;
-	cout << "Hi!";
+	cout << "Hi!!!";
+	cout << "dar kazkas"; 
     cin.get();
     return EXIT_SUCCESS;
 }
